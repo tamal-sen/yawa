@@ -2,8 +2,8 @@
 
 # YAWA - Yet Another Weather App
 A Flutter project. This implements API from OpenWeatherAPI
-![AppShot 1](/screenshots/shot_1.png)
-![AppShot 2](/screenshots/shot_2.png)
+![AppShot 1](/screenshots/shot_1.png) <!-- .element height="50%" width="50%" -->
+![AppShot 2](/screenshots/shot_2.jpg) <!-- .element height="50%" width="50%" -->
 
 A release build can be found in [/build/app/outputs/flutter-apk/app-release.apk](https://github.com/tamal-sen/yawa/blob/master/build/app/outputs/flutter-apk/app-release.apk)
 
