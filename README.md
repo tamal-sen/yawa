@@ -1,5 +1,11 @@
+![App Icon](/android//app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+
 # YAWA - Yet Another Weather App
-A Flutter project.
+A Flutter project. This implements API from OpenWeatherAPI
+![AppShot 1](/screenshots/shot_1.png)
+![AppShot 2](/screenshots/shot_2.png)
+
+A release build can be found in [/build/app/outputs/flutter-apk/app-release.apk](https://github.com/tamal-sen/yawa/blob/master/build/app/outputs/flutter-apk/app-release.apk)
 
 ## Getting Started
 
